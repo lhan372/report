@@ -1,0 +1,326 @@
+﻿PHE Centre,LA code,LA name,Count of outlets,"Rate per 100,000 population"
+East Midlands,E07000032,Amber Valley,97,78.3
+East Midlands,E07000170,Ashfield,104,84.9
+East Midlands,E07000171,Bassetlaw,85,74.5
+East Midlands,E07000129,Blaby,49,51.1
+East Midlands,E07000033,Bolsover,67,86.8
+East Midlands,E07000136,Boston,38,57.2
+East Midlands,E07000172,Broxtowe,100,89.5
+East Midlands,E07000130,Charnwood,123,70.9
+East Midlands,E07000034,Chesterfield,123,117.9
+East Midlands,E07000150,Corby,40,61.1
+East Midlands,E07000151,Daventry,38,48.1
+East Midlands,E06000015,Derby,263,104.2
+East Midlands,E07000035,Derbyshire Dales,48,67.3
+East Midlands,E07000137,East Lindsey,132,95.9
+East Midlands,E07000152,East Northamptonshire,75,84.4
+East Midlands,E07000036,Erewash,100,87.7
+East Midlands,E07000173,Gedling,85,73.5
+East Midlands,E07000131,Harborough,49,55.7
+East Midlands,E07000037,High Peak,90,98.5
+East Midlands,E07000132,Hinckley and Bosworth,73,67.8
+East Midlands,E07000153,Kettering,79,81.5
+East Midlands,E06000016,Leicester,429,127.1
+East Midlands,E07000138,Lincoln,119,123.7
+East Midlands,E07000174,Mansfield,102,96.3
+East Midlands,E07000133,Melton,30,58.9
+East Midlands,E07000175,Newark and Sherwood,78,66.2
+East Midlands,E07000038,North East Derbyshire,68,68.4
+East Midlands,E07000139,North Kesteven,61,54.9
+East Midlands,E07000134,North West Leicestershire,71,74.0
+East Midlands,E07000154,Northampton,194,88.4
+East Midlands,E06000018,Nottingham,364,115.8
+East Midlands,E07000135,Oadby and Wigston,43,76.9
+East Midlands,E07000176,Rushcliffe,73,64.2
+East Midlands,E06000017,Rutland,24,63.1
+East Midlands,E07000039,South Derbyshire,58,59.0
+East Midlands,E07000140,South Holland,72,79.6
+East Midlands,E07000141,South Kesteven,116,84.1
+East Midlands,E07000155,South Northamptonshire,38,43.1
+East Midlands,E07000156,Wellingborough,62,81.1
+East Midlands,E07000142,West Lindsey,69,75.2
+East of England,E07000200,Babergh,43,48.4
+East of England,E07000066,Basildon,149,82.5
+East of England,E06000055,Bedford,133,81.1
+East of England,E07000067,Braintree,99,66.0
+East of England,E07000143,Breckland,69,51.5
+East of England,E07000068,Brentwood,47,62.1
+East of England,E07000144,Broadland,47,37.3
+East of England,E07000095,Broxbourne,82,85.6
+East of England,E07000008,Cambridge,120,93.4
+East of England,E07000069,Castle Point,65,73.1
+East of England,E06000056,Central Bedfordshire,171,63.6
+East of England,E07000070,Chelmsford,99,57.7
+East of England,E07000071,Colchester,129,71.5
+East of England,E07000096,Dacorum,110,73.5
+East of England,E07000009,East Cambridgeshire,35,40.4
+East of England,E07000097,East Hertfordshire,91,63.6
+East of England,E07000072,Epping Forest,75,58.2
+East of England,E07000010,Fenland,90,92.1
+East of England,E07000201,Forest Heath,51,81.2
+East of England,E07000145,Great Yarmouth,109,111.0
+East of England,E07000073,Harlow,69,81.6
+East of England,E07000098,Hertsmere,80,78.1
+East of England,E07000011,Huntingdonshire,98,56.4
+East of England,E07000202,Ipswich,143,106.0
+East of England,E07000146,King's Lynn and West Norfolk,116,77.3
+East of England,E06000032,Luton,187,88.6
+East of England,E07000074,Maldon,40,63.7
+East of England,E07000203,Mid Suffolk,41,41.4
+East of England,E06000042,Milton Keynes,176,67.9
+East of England,E07000099,North Hertfordshire,93,71.0
+East of England,E07000147,North Norfolk,95,92.4
+East of England,E07000148,Norwich,168,122.2
+East of England,E06000031,Peterborough,157,82.4
+East of England,E07000075,Rochford,54,63.7
+East of England,E07000012,South Cambridgeshire,37,24.1
+East of England,E07000149,South Norfolk,72,55.7
+East of England,E06000033,Southend-on-Sea,213,119.7
+East of England,E07000100,St Albans,90,62.1
+East of England,E07000204,St Edmundsbury,79,70.5
+East of England,E07000101,Stevenage,77,89.5
+East of England,E07000205,Suffolk Coastal,85,68.1
+East of England,E07000076,Tendring,134,95.8
+East of England,E07000102,Three Rivers,44,48.7
+East of England,E06000034,Thurrock,138,84.5
+East of England,E07000077,Uttlesford,35,41.6
+East of England,E07000103,Watford,89,93.2
+East of England,E07000206,Waveney,100,86.3
+East of England,E07000104,Welwyn Hatfield,62,53.4
+London,E09000002,Barking and Dagenham,194,97.8
+London,E09000003,Barnet,278,74.2
+London,E09000004,Bexley,196,81.7
+London,E09000005,Brent,304,94.8
+London,E09000006,Bromley,255,79.4
+London,E09000007,Camden,330,140.5
+London,E09000001,City of London,269,*
+London,E09000008,Croydon,424,112.8
+London,E09000009,Ealing,286,83.6
+London,E09000010,Enfield,266,82.0
+London,E09000011,Greenwich,231,86.0
+London,E09000012,Hackney,290,110.2
+London,E09000013,Hammersmith and Fulham,196,109.9
+London,E09000014,Haringey,255,95.3
+London,E09000015,Harrow,201,81.7
+London,E09000016,Havering,236,95.9
+London,E09000017,Hillingdon,256,87.5
+London,E09000018,Hounslow,184,69.3
+London,E09000019,Islington,295,133.5
+London,E09000020,Kensington and Chelsea,100,64.0
+London,E09000021,Kingston upon Thames,136,80.0
+London,E09000022,Lambeth,313,98.4
+London,E09000023,Lewisham,345,118.2
+London,E09000024,Merton,167,82.1
+London,E09000025,Newham,364,112.2
+London,E09000026,Redbridge,229,78.1
+London,E09000027,Richmond upon Thames,123,63.5
+London,E09000028,Southwark,339,112.1
+London,E09000029,Sutton,179,90.3
+London,E09000030,Tower Hamlets,354,124.6
+London,E09000031,Waltham Forest,297,110.8
+London,E09000032,Wandsworth,306,98.0
+London,E09000033,Westminster,464,198.9
+North East,E06000047,County Durham,501,96.8
+North East,E06000005,Darlington,124,117.7
+North East,E08000020,Gateshead,199,99.2
+North East,E06000001,Hartlepool,133,143.6
+North East,E06000002,Middlesbrough,169,121.5
+North East,E08000021,Newcastle upon Tyne,334,115.2
+North East,E08000022,North Tyneside,210,103.6
+North East,E06000048,Northumberland,270,85.4
+North East,E06000003,Redcar and Cleveland,141,104.4
+North East,E08000023,South Tyneside,153,102.9
+North East,E06000004,Stockton-on-Tees,182,93.8
+North East,E08000024,Sunderland,265,95.7
+North West,E07000026,Allerdale,102,105.7
+North West,E07000027,Barrow-in-Furness,76,112.3
+North West,E06000008,Blackburn with Darwen,188,128.1
+North West,E06000009,Blackpool,271,192.9
+North West,E08000001,Bolton,316,112.7
+North West,E07000117,Burnley,132,151.2
+North West,E08000002,Bury,222,118.4
+North West,E07000028,Carlisle,114,105.5
+North West,E06000049,Cheshire East,327,87.4
+North West,E06000050,Cheshire West and Chester,246,74.0
+North West,E07000118,Chorley,109,97.7
+North West,E07000029,Copeland,66,94.5
+North West,E07000030,Eden,35,66.5
+North West,E07000119,Fylde,79,102.5
+North West,E06000006,Halton,86,68.1
+North West,E07000120,Hyndburn,114,142.1
+North West,E08000011,Knowsley,74,50.5
+North West,E07000121,Lancaster,127,89.9
+North West,E08000012,Liverpool,549,116.0
+North West,E08000003,Manchester,752,144.6
+North West,E08000004,Oldham,218,95.3
+North West,E07000122,Pendle,118,131.3
+North West,E07000123,Preston,176,125.3
+North West,E07000124,Ribble Valley,56,96.4
+North West,E08000005,Rochdale,220,103.3
+North West,E07000125,Rossendale,86,124.3
+North West,E08000006,Salford,258,106.6
+North West,E08000014,Sefton,251,91.8
+North West,E07000031,South Lakeland,81,78.4
+North West,E07000126,South Ribble,111,101.8
+North West,E08000013,St. Helens,172,97.1
+North West,E08000007,Stockport,337,117.5
+North West,E08000008,Tameside,242,109.6
+North West,E08000009,Trafford,266,114.4
+North West,E06000007,Warrington,157,76.1
+North West,E07000127,West Lancashire,63,56.3
+North West,E08000010,Wigan,345,107.5
+North West,E08000015,Wirral,280,87.3
+North West,E07000128,Wyre,111,102.1
+South East,E07000223,Adur,53,83.9
+South East,E07000224,Arun,115,74.5
+South East,E07000105,Ashford,76,61.6
+South East,E07000004,Aylesbury Vale,92,49.8
+South East,E07000084,Basingstoke and Deane,76,44.0
+South East,E06000036,Bracknell Forest,43,36.4
+South East,E06000043,Brighton and Hove,343,122.0
+South East,E07000106,Canterbury,133,84.4
+South East,E07000177,Cherwell,108,74.7
+South East,E07000225,Chichester,55,47.6
+South East,E07000005,Chiltern,47,50.0
+South East,E07000226,Crawley,86,78.3
+South East,E07000107,Dartford,96,93.9
+South East,E07000108,Dover,100,88.4
+South East,E07000085,East Hampshire,61,51.9
+South East,E07000061,Eastbourne,95,93.6
+South East,E07000086,Eastleigh,88,68.3
+South East,E07000207,Elmbridge,74,55.7
+South East,E07000208,Epsom and Ewell,56,71.5
+South East,E07000087,Fareham,61,53.4
+South East,E07000088,Gosport,83,98.5
+South East,E07000109,Gravesham,87,82.7
+South East,E07000209,Guildford,70,49.0
+South East,E07000089,Hart,51,54.6
+South East,E07000062,Hastings,110,120.8
+South East,E07000090,Havant,99,81.0
+South East,E07000227,Horsham,50,37.3
+South East,E06000046,Isle of Wight,133,95.6
+South East,E07000063,Lewes,63,62.9
+South East,E07000110,Maidstone,118,72.9
+South East,E06000035,Medway,237,86.5
+South East,E07000228,Mid Sussex,77,53.3
+South East,E07000210,Mole Valley,45,52.2
+South East,E07000091,New Forest,120,67.1
+South East,E07000178,Oxford,127,80.4
+South East,E06000044,Portsmouth,242,115.7
+South East,E06000038,Reading,176,109.4
+South East,E07000211,Reigate and Banstead,69,48.2
+South East,E07000064,Rother,51,55.4
+South East,E07000212,Runnymede,57,67.4
+South East,E07000092,Rushmoor,96,100.7
+South East,E07000111,Sevenoaks,52,44.1
+South East,E07000112,Shepway,84,76.7
+South East,E06000039,Slough,112,77.5
+South East,E07000006,South Bucks,27,39.4
+South East,E07000179,South Oxfordshire,73,53.3
+South East,E06000045,Southampton,261,106.4
+South East,E07000213,Spelthorne,65,66.3
+South East,E07000214,Surrey Heath,64,73.1
+South East,E07000113,Swale,101,71.7
+South East,E07000215,Tandridge,34,39.8
+South East,E07000093,Test Valley,51,42.7
+South East,E07000114,Thanet,152,109.8
+South East,E07000115,Tonbridge and Malling,69,55.5
+South East,E07000116,Tunbridge Wells,76,65.5
+South East,E07000180,Vale of White Horse,59,47.3
+South East,E07000216,Waverley,52,42.3
+South East,E07000065,Wealden,83,53.6
+South East,E06000037,West Berkshire,79,50.7
+South East,E07000181,West Oxfordshire,56,51.8
+South East,E07000094,Winchester,55,46.1
+South East,E06000040,Windsor and Maidenhead,101,68.5
+South East,E07000217,Woking,82,82.5
+South East,E06000041,Wokingham,53,33.3
+South East,E07000229,Worthing,120,112.3
+South East,E07000007,Wycombe,112,64.0
+South West,E06000022,Bath and North East Somerset,128,70.3
+South West,E06000028,Bournemouth,209,109.2
+South West,E06000023,Bristol,494,111.6
+South West,E07000078,Cheltenham,95,81.5
+South West,E07000048,Christchurch,48,98.2
+South West,E06000052,Cornwall,404,74.1
+South West,E07000079,Cotswold,41,48.4
+South West,E07000040,East Devon,78,57.2
+South West,E07000049,East Dorset,38,43.1
+South West,E07000041,Exeter,87,70.0
+South West,E07000080,Forest of Dean,44,52.6
+South West,E07000081,Gloucester,133,105.9
+South West,E07000187,Mendip,56,50.5
+South West,E07000042,Mid Devon,40,50.5
+South West,E07000043,North Devon,87,92.5
+South West,E07000050,North Dorset,40,57.1
+South West,E06000024,North Somerset,138,66.3
+South West,E06000026,Plymouth,195,74.6
+South West,E06000029,Poole,146,97.3
+South West,E07000051,Purbeck,23,50.4
+South West,E07000188,Sedgemoor,75,63.0
+South West,E06000025,South Gloucestershire,141,51.9
+South West,E07000044,South Hams,56,66.6
+South West,E07000189,South Somerset,100,60.8
+South West,E07000082,Stroud,64,55.6
+South West,E06000030,Swindon,133,61.6
+South West,E07000190,Taunton Deane,74,65.6
+South West,E07000045,Teignbridge,75,58.9
+South West,E07000083,Tewkesbury,30,35.0
+South West,E06000027,Torbay,160,120.3
+South West,E07000046,Torridge,31,47.2
+South West,E07000047,West Devon,27,49.8
+South West,E07000052,West Dorset,59,58.7
+South West,E07000191,West Somerset,24,69.9
+South West,E07000053,Weymouth and Portland,65,100.0
+South West,E06000054,Wiltshire,294,60.9
+West Midlands,E08000025,Birmingham,1058,96.1
+West Midlands,E07000234,Bromsgrove,68,71.2
+West Midlands,E07000192,Cannock Chase,98,99.4
+West Midlands,E08000026,Coventry,282,83.6
+West Midlands,E08000027,Dudley,258,81.7
+West Midlands,E07000193,East Staffordshire,112,96.8
+West Midlands,E06000019,Herefordshire,103,55.0
+West Midlands,E07000194,Lichfield,51,50.0
+West Midlands,E07000235,Malvern Hills,35,46.1
+West Midlands,E07000195,Newcastle-under-Lyme,113,89.6
+West Midlands,E07000218,North Warwickshire,41,65.6
+West Midlands,E07000219,Nuneaton and Bedworth,85,67.4
+West Midlands,E07000236,Redditch,60,71.0
+West Midlands,E07000220,Rugby,74,72.2
+West Midlands,E08000028,Sandwell,362,114.3
+West Midlands,E06000051,Shropshire,233,75.1
+West Midlands,E08000029,Solihull,114,54.3
+West Midlands,E07000196,South Staffordshire,40,36.1
+West Midlands,E07000197,Stafford,85,64.3
+West Midlands,E07000198,Staffordshire Moorlands,69,70.6
+West Midlands,E06000021,Stoke-on-Trent,301,119.9
+West Midlands,E07000221,Stratford-on-Avon,69,57.0
+West Midlands,E07000199,Tamworth,54,70.0
+West Midlands,E06000020,Telford and Wrekin,127,75.0
+West Midlands,E08000030,Walsall,257,93.7
+West Midlands,E07000222,Warwick,110,78.9
+West Midlands,E08000031,Wolverhampton,242,95.7
+West Midlands,E07000237,Worcester,101,100.2
+West Midlands,E07000238,Wychavon,69,57.6
+West Midlands,E07000239,Wyre Forest,85,85.9
+Yorkshire and Humber,E08000016,Barnsley,232,97.5
+Yorkshire and Humber,E08000032,Bradford,583,110.4
+Yorkshire and Humber,E08000033,Calderdale,218,105.1
+Yorkshire and Humber,E07000163,Craven,40,71.8
+Yorkshire and Humber,E08000017,Doncaster,291,95.7
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,270,80.1
+Yorkshire and Humber,E07000164,Hambleton,52,57.9
+Yorkshire and Humber,E07000165,Harrogate,120,76.3
+Yorkshire and Humber,E06000010,Kingston upon Hull,354,137.4
+Yorkshire and Humber,E08000034,Kirklees,473,109.7
+Yorkshire and Humber,E08000035,Leeds,966,126.0
+Yorkshire and Humber,E06000012,North East Lincolnshire,189,118.3
+Yorkshire and Humber,E06000013,North Lincolnshire,148,87.4
+Yorkshire and Humber,E07000166,Richmondshire,45,85.3
+Yorkshire and Humber,E08000018,Rotherham,256,98.4
+Yorkshire and Humber,E07000167,Ryedale,43,81.7
+Yorkshire and Humber,E07000168,Scarborough,171,158.3
+Yorkshire and Humber,E07000169,Selby,48,56.2
+Yorkshire and Humber,E08000019,Sheffield,660,117.1
+Yorkshire and Humber,E08000036,Wakefield,396,119.5
+Yorkshire and Humber,E06000014,York,202,98.8
